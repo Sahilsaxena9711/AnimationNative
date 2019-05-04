@@ -1,0 +1,4 @@
+#Sun Apr 28 23:29:32 IST 2019
+base.0=/home/sahilturningcloud/Practice/AnimationTry/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
